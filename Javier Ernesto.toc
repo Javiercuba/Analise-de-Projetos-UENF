@@ -6,12 +6,12 @@
 \contentsline {subsection}{\numberline {1.1.2}Controle de vendas}{1}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {1.1.3}Controle de aeronaves}{1}{subsection.1.1.3}%
 \contentsline {section}{\numberline {1.2}Identificando as componentes do meu sistema}{1}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Componente: Hardware}{1}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.1}Componente: Hardware}{2}{subsection.1.2.1}%
 \contentsline {subsection}{\numberline {1.2.2}Componente: Software}{2}{subsection.1.2.2}%
 \contentsline {subsection}{\numberline {1.2.3}Componente: Pessoas}{2}{subsection.1.2.3}%
 \contentsline {subsection}{\numberline {1.2.4}Componente: Banco de Dados}{2}{subsection.1.2.4}%
 \contentsline {subsection}{\numberline {1.2.5}Componente: Documentos }{2}{subsection.1.2.5}%
-\contentsline {subsection}{\numberline {1.2.6}Componente: Metodologias ou Procedimentos}{2}{subsection.1.2.6}%
+\contentsline {subsection}{\numberline {1.2.6}Componente: Metodologias ou Procedimentos}{3}{subsection.1.2.6}%
 \contentsline {subsection}{\numberline {1.2.7}Componente: Mobilidade}{3}{subsection.1.2.7}%
 \contentsline {subsection}{\numberline {1.2.8}Componente: Nuvem}{3}{subsection.1.2.8}%
 \contentsline {chapter}{\numberline {2}Etapa de Planejamento}{5}{chapter.2}%
