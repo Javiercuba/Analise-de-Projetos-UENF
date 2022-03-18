@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.18)  16 MAR 2022 19:54
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.18)  17 MAR 2022 15:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1070,7 +1070,10 @@ File: Pictures/sistemas.png Graphic file (type bmp)
 Cap\'{\i }tulo 2.
 File: Pictures/planejamento.png Graphic file (type bmp)
 <Pictures/planejamento.png>
-[5]) (./03Analise.tex [6]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]) (./03Analise.tex [6]
 Cap\'{\i }tulo 3.
 File: Pictures/analise.png Graphic file (type bmp)
 <Pictures/analise.png>
@@ -1103,7 +1106,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
 Here is how much of TeX's memory you used:
  31497 strings out of 479819
  621142 string characters out of 5895846
- 1082819 words of memory out of 5000000
+ 1083819 words of memory out of 5000000
  48010 multiletter control sequences out of 15000+600000
  574336 words of font info for 68 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
