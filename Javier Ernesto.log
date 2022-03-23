@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.18)  22 MAR 2022 22:14
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.18)  23 MAR 2022 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1070,7 +1070,20 @@ File: Pictures/sistemas.png Graphic file (type bmp)
 Cap\'{\i }tulo 2.
 File: Pictures/planejamento.png Graphic file (type bmp)
 <Pictures/planejamento.png>
-[5] [6]) (./03Analise.tex [7] [8
+[5]
+File: Pictures/cronograma.png Graphic file (type bmp)
+<Pictures/cronograma.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
+[6]) (./03Analise.tex [7] [8
 
 ]
 Cap\'{\i }tulo 3.
@@ -1101,11 +1114,11 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 134.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
  ) 
 Here is how much of TeX's memory you used:
- 31496 strings out of 479819
- 621136 string characters out of 5895846
- 1082819 words of memory out of 5000000
- 48009 multiletter control sequences out of 15000+600000
- 574336 words of font info for 68 fonts, out of 8000000 for 9000
+ 31553 strings out of 479819
+ 622257 string characters out of 5895846
+ 1083819 words of memory out of 5000000
+ 48065 multiletter control sequences out of 15000+600000
+ 583690 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  63i,11n,97p,1080b,1165s stack positions out of 5000i,500n,10000p,200000b,80000s
 
