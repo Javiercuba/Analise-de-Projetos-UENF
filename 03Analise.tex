@@ -7,15 +7,163 @@
 \chapterimage{analise.png} % Table of contents heading image
 \chapter{Etapa de An\'{a}lise}
 
-Neste cap\'{\i}tulo descrevemos...
-
+Neste capítulo é apresentada a análise do sistema, que é composta pela coleta e apresentação de
+requisitos, seleção de stakeholders, entrevista, casos de uso, diagramas de fluxo de dados e diagrama
+de entidades e relacionamentos.
 
 
 \section{Requisitos do Sistema}
 
+Nesta seção serão listados os requisitos do sistema além de algumas de suas definições e especificações.
+
+\subsection{Requisitos}
+\begin{enumerate}
+  \item Computadores para todos o setores
+  \item Servidores
+  \item Rede interna para todos os setores
+  \item Gerenciamento de controle de estoque
+  \item impressão de relatórios
+  \item Acesso a internet
+  \item Acesso ao sistema
+  \item Cadastro de clientes
+  \item Controle de vendas
+  \item Catálogos de produtos
+  \item Gerenciamento de finanças Setor administrativo
+  \item Gerenciamento de fornecedores
+  \item Sistema de segurança
+  \item Anti-vírus
+  \item Suporte ao pacote office
+  \item Sistemas operacionais atualizados
+  \item Criação do site
+  \item Vendas e entrega online
+  \item Disponibilidade de produtos
+  \item Cadastro de clientes online
+  \item Gerenciamento de entrega
+  \item Programa de gerenciamento de dados
+  \item Gerenciamento de varias formas de pagamento
+  \item Serviço de e-mail
+  \item Confidencialidade de dados em geral
+  \item Analista de sistema
+  \item Programadores
+  \item Engenheiro de software
+  \item Funcionários
+  \item Equipe treinada para o uso do sistema
+  \item Manual do sistema
+  \item Treinamento de funcionários
+  \item Contabilizar horas de trabalho dos funcioários
+  \item Atendimento a padrões
+  \item Backup diários na nuvem
+  \item Interface didática
+  \item Interface acessivel
+  \item Sistema rápido e dinâmico
+  \item Comunicação entre setores
+  \item Comunicção entres todas as unidades
+  \item Sincronização de dados entre unidades
+  \item Criação do aplicativo
+  \item Disponibilização de promoções no aplicativo
+  \item Cadrasto de passagens no aplicativo
+  \item Controle de passagens
+  \item Controle de aeronaves
+  \item Vendas e entregas pelo aplicativo
+  \item Manutenção rotineira
+  \item Resultados de orçamentos
+  \item Tolerância a falhas
+  \item Gerenciamento de localizção de unidade mais proxima
+        
+\end{enumerate}
+
+
+
+\subsection{Definições de Requisitos}
+\begin{enumerate}
+
+  \item[1.] Computadores em todos os aeroportos - Deverá ser feita a instalação e manutenção de
+        computadores em todas aos aeroportos, com acesso a internet e conectados em rede\\      
+  \item[3.] Controle de vendas - vendas de passagens devem ser registradas no sistema, alterando
+        o estoque e sendo associadas a contas de usuários cadastrados\\
+  \item[8.] Segurança - o sistema deve ser  capaz de prevenir erros e perdas de dados\\
+  \item[10.] Gerenciamento de viagens - a logística das viagens devem partir dos dados de
+        proximidade do proximo aeroporto e pelo destino dos passageiros passageiros\\
+  \item[24.] Construção do sistema de vendas - Sistema interno de vendas \\
+  \item[26.] Contrução do web-site de vendas - Sistema onde os clientes fazem a compra \\
+  \item[35.] Geração de relatórios automatizados - o sistema deve gerar relatórios automatizados
+        com dados sobre passagens, vendas, viagens, passageiros, faturamento, gastos.\\
+  \item[39.] Gerenciamento de aviões - Sistema irá gerenciar todos os detalhes sobre as aeronaves\\
+  \item[40.] Sincronização de dados entre filiais - o sistema deve estar sempre sincronizado de
+        forma a prevenir erros e gastos desnecessários entre as viagens.
+  \item[41] Analise de passageiros - Sistema irá fazer uma analise grafica para verificar o tipo
+        de passageiro que voa na sua empresa, gerando um relatorio automatizados\\
+  \item[48] Analise de viagens - Sistema irá fazer uma analise grafica para verificar o tipo
+        alguns pontos patronizados dentro das viagens para futuras modificações.\\
+  \item[79] Construção do sistema de aeronaves - Sistema interno de verificaçãos
+        das informações das aeronaves \\
+  \item[80] SGBD - Para armazenamentos dos dados utilizando as tecnologias mais adequadas
+\end{enumerate}
+
+
+\subsection{Especificações de requisitos}
+\begin{enumerate}
+  \item[1.] Controle de vendas
+        \subitem{
+          \begin{enumerate}
+            \item[1.1] Passagem cadastrada no sistema
+            \item[1.2] Cliente cadastrado no sistema de compra
+            \item[1.3] Cadastro de venda é realizado em função ao cliente
+            \item[1.5] Processamento desse cadastro dentro do banco de dados
+            \item[1.6] Conclusão da venda
+            \item[1.8] Atualização do numero de milhas do passageiro  
+            \item[1.7] Com as informações será feito a análise gráfica \\
+          \end{enumerate}
+        }
+        
+  \item[2.] Integração entre aeroportos
+        \subitem{
+          \begin{enumerate}
+            \item[2.1] Lista de todas as filiais existentes
+            \item[2.3] Inserção de todos as filiais dentro do sistema
+            \item[2.6] Cadastro dos dados de cada aeroporto no sistema geral
+            \item[2.7] Utilização de um banco de dados unico
+            \item[2.8] Geração de relatorio automatizado se todas as agencias\\
+          \end{enumerate}
+        }
+  \item[3.] Banco de dados
+        \subitem{
+          \begin{enumerate}
+            \item[3.3] Diagrama do banco de dados para cada entidade
+            \item[3.6] Criar as relações e o numero de relacionamentos
+            \item[3.9] Adicionar atributos para cada entidade
+            \item[3.10] Desenvolvimento do banco para utilização do sistema
+            \item[3.11] Desenvolvimento do Backup do bandod e dados \\
+          \end{enumerate}
+        }
+  \item[4.] Sistema de análise de dados
+        \subitem{
+          \begin{enumerate}
+            \item[4.3] Consultas desejadas a se fazer para analise
+            \item[4.6] Busca e tratamento das informações
+            \item[4.9] Desenvolvimento dos graficos para a analise
+            \item[4.10] Desenvolvimento dos relatórios
+            \item[4.11] Utilização de um Gateway para deixar os relatorios automatizados
+            \item[4.12] Implementação para o gerente ou gestores receberem os relatorios mensalmente\\
+          \end{enumerate}
+        }
+  \item[5.] Geração de relatórios automatizados
+        \subitem{
+          \begin{enumerate}
+            \item[4.3] essa
+            \item[4.6] aula
+            \item[4.9] é
+            \item[4.10]  top\\
+          \end{enumerate}
+        }
+\end{enumerate}
+
+
 
 
 \section{Stakeholders e Pontos de Vista}
+Nesta seção estão presentes os diagramas de requisitos de rede(3.1) e de estoque(3.2) . Estes
+buscam representar os requisitos anteriormente apresentados de forma gráfica.
 
 
 \section{Entrevista}
@@ -28,8 +176,8 @@ Neste cap\'{\i}tulo descrevemos...
 \section{Modelagem do Sistema}
 
 
-    \subsection{Modelagem de Processos}
+\subsection{Modelagem de Processos}
 
 
-    \subsection{Modelagem de Dados}
+\subsection{Modelagem de Dados}
 
