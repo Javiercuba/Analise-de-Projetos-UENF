@@ -33,11 +33,12 @@
 \contentsline {subsection}{\numberline {3.1.3}Especificações de requisitos}{11}{subsection.3.1.3}%
 \contentsline {section}{\numberline {3.2}Stakeholders e Pontos de Vista}{12}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Stakeholders}{12}{subsection.3.2.1}%
-\contentsline {section}{\numberline {3.3}Entrevista}{13}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Entrevista}{12}{section.3.3}%
 \contentsline {section}{\numberline {3.4} Casos de Uso}{13}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Modelagem do Sistema}{13}{section.3.5}%
 \contentsline {subsection}{\numberline {3.5.1}Modelagem de Processos}{13}{subsection.3.5.1}%
 \contentsline {subsection}{\numberline {3.5.2}Modelagem de Dados}{13}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Diagrama de entidades e relacionamentos}{13}{section.3.6}%
 \contentsline {chapter}{\numberline {4}Projeto do Sistema}{15}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Estrat\'{e}gia do Projeto}{15}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Refinamento dos Diagramas DFD e E-R}{15}{section.4.2}%
@@ -47,5 +48,5 @@
 \contentsline {subsection}{\numberline {4.3.3}Arquitetura de Software}{15}{subsection.4.3.3}%
 \contentsline {section}{\numberline {4.4}Projeto de Interface}{15}{section.4.4}%
 \contentsline {chapter}{\numberline {5}Considera\c {c}\~{o}es Finais}{17}{chapter.5}%
-\contentsline {chapter}{\leavevmode {\color {ocre}Bibliografia}}{19}{chapter*.2}%
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliografia}}{17}{figure.5.1}%
 \contentsfinish 
