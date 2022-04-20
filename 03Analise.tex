@@ -191,22 +191,79 @@ A entrevista é uma ferramenta muito importante na criação de um sistema, pois
 contato com stakeholders muito real, e que retorna requisitos imediatos observados na condução da
 entrevista.
 
-Foram selecionadas oito perguntas com o intuito de descobrir contras do sistema antigo, para a
+Foram selecionadas quatro perguntas com o intuito de descobrir contras do sistema antigo, para a
 melhoria dos mesmo. E prós para a manutenção e aprimoramento no novo sistema. Além de
 perguntas que buscam entender o que é importante para os funcionários que utilizam o sistema,
 e quais as principais necessidades dos mesmos. A entrevista foi feita com um funcionário que
-trabalha no balcão de uma das farmácias, e que está constantemente lidando com o sistema de
-gerenciamento de estoque e recebimento de pedidos.
+trabalham dentro das companhias, e que estám constantemente lidando com o sistema de
+gerenciamento de passagens e clientes.\\
+
+
+\begin{enumerate}
+  \item O sistema atual precisa de alguma atualização?
+        \subitem R: O nosso sistema atual não recebe atualizações há bastante 
+        tempo, seria necessario além das atualizações algumas novas funcionalidades.\\
+        
+  \item O sistema atual cria mais problemas do que ajuda?
+        \subitem R: Com a falta de manutenção e sem novas funcionalidades, algumas tarefas que seriam
+        resolvidas de forma pratica ficam mais custosas e levam mais tempo,
+        atrapalhando a eficiência dos funcionários.\\
+        
+  \item As consultas realizadas no sistema atual são simples de se fazer?
+        \subitem R: Algumas partes do sistema como a geração de relatórios ou 
+        o cadastro de uma nova aeronave não são tarefas simples de se fazer com o sistema atual.\\
+        
+  \item O sistema agrada os funcionarios que a utilizam?
+        \subitem R: Na maioria dos setores eu recebo um feedback positivo so sistema atual, porém alguns outros
+        reclamam sobre a falta de integração entre companhias de aeroportos distintos.
+\end{enumerate}
+
+
+
 
 
 \section{ Casos de Uso}
+A seguir serão apresentados alguns casos de uso do sistema e o passo a passo de cada um. Além de
+um diagrama representando um deles.
+
+
+\subsection{Cadastro de agencias}
+Adicionar agencia ao sistema
+\begin{itemize}
+  \item Fazer login no sistema
+  \item Escolher a opção de adicionar nova agência
+  \item Identificar as informações dessa nova agência
+  \item Atualizar as agências
+  \item Adicionar dentro do relatório
+  \item Criar o relatório
+  \item Concluir a operação
+\end{itemize}
+
+\subsection{Cadastro de passagem}
+
+
+\section{Diagrama do fluxo de dados}
+Como forma de representar graficamente os processos do sistema e como eles se relacionam com
+agente externos e bases de dados, temos diagramas de fluxo de dados.
+
+\includegraphics[width=13cm]{DiagramaFluxoDados.jpeg}
+
+
+\subsection{Diagrama de contexto}
+O diagrama de contexto tem como finalidade representar o sistema por inteiro de forma ampla,
+genérica, e objetiva, para norteamento do objetivo geral do sistema
+
+\begin{figure}
+  \caption{Diagrama de contexto}
+  \centering
+  \includegraphics[width=13cm]{DiagramaContexto.jpeg}
+\end{figure}
+\break
 
 
 
-\section{Modelagem do Sistema}
+\subsection{Diagrama de Processos}
 
-
-\subsection{Modelagem de Processos}
 
 
 \subsection{Modelagem de Dados}
@@ -214,6 +271,8 @@ gerenciamento de estoque e recebimento de pedidos.
 \section{Diagrama de entidades e relacionamentos}
 O diagramas a seguir representam a modelagem de relacionamento entre as entidades do sistema.
 
-
+\begin{figure}[!ht]
   \caption{Diagrama de entidade}
+  \centering
   \includegraphics[width=16cm]{Diagrama.jpeg}
+\end{figure}
