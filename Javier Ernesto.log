@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.18)  20 APR 2022 18:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.18)  12 MAY 2022 17:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1094,7 +1094,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 
  [4] (./01introduc.tex
 Cap\'{\i }tulo 1.
-<Pictures/sistemas.png, id=214, 1204.5pt x 469.755pt>
+<Pictures/sistemas.png, id=208, 1204.5pt x 469.755pt>
 File: Pictures/sistemas.png Graphic file (type png)
 <use Pictures/sistemas.png>
 Package pdftex.def Info: Pictures/sistemas.png  used on input line 9.
@@ -1122,7 +1122,7 @@ l.8 \chapter
 
 ]
 Cap\'{\i }tulo 2.
-<Pictures/planejamento.png, id=234, 289.08pt x 112.7412pt>
+<Pictures/planejamento.png, id=227, 289.08pt x 112.7412pt>
 File: Pictures/planejamento.png Graphic file (type png)
 <use Pictures/planejamento.png>
 Package pdftex.def Info: Pictures/planejamento.png  used on input line 8.
@@ -1131,7 +1131,7 @@ Package pdftex.def Info: Pictures/planejamento.png  used on input line 8.
 Underfull \vbox (badness 3780) has occurred while \output is active []
 
  [6]
-<Pictures/cronograma.png, id=243, 936.49875pt x 474.77374pt>
+<Pictures/cronograma.png, id=237, 936.49875pt x 474.77374pt>
 File: Pictures/cronograma.png Graphic file (type png)
 <use Pictures/cronograma.png>
 Package pdftex.def Info: Pictures/cronograma.png  used on input line 104.
@@ -1149,7 +1149,7 @@ Overfull \hbox (23.9544pt too wide) in paragraph at lines 114--135
 
 [7 <./Pictures/cronograma.png>]) (./03Analise.tex [8]
 Cap\'{\i }tulo 3.
-<Pictures/analise.png, id=252, 903.375pt x 352.31625pt>
+<Pictures/analise.png, id=246, 903.375pt x 352.31625pt>
 File: Pictures/analise.png Graphic file (type png)
 <use Pictures/analise.png>
 Package pdftex.def Info: Pictures/analise.png  used on input line 8.
@@ -1261,53 +1261,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-<Pictures/DiagramaFluxoDados.jpeg, id=321, 714.67pt x 726.715pt>
+<Pictures/DiagramaFluxoDados.jpeg, id=315, 714.67pt x 726.715pt>
 File: Pictures/DiagramaFluxoDados.jpeg Graphic file (type jpg)
 <use Pictures/DiagramaFluxoDados.jpeg>
 Package pdftex.def Info: Pictures/DiagramaFluxoDados.jpeg  used on input line 249.
-(pdftex.def)             Requested size: 369.88582pt x 376.11977pt.
+(pdftex.def)             Requested size: 341.43306pt x 347.18918pt.
 
 Underfull \vbox (badness 4001) has occurred while \output is active []
 
  [13]
-<Pictures/DiagramaContexto.jpeg, id=331, 739.76375pt x 487.8225pt>
+<Pictures/DiagramaContexto.jpeg, id=325, 739.76375pt x 487.8225pt>
 File: Pictures/DiagramaContexto.jpeg Graphic file (type jpg)
 <use Pictures/DiagramaContexto.jpeg>
-Package pdftex.def Info: Pictures/DiagramaContexto.jpeg  used on input line 259.
+Package pdftex.def Info: Pictures/DiagramaContexto.jpeg  used on input line 257.
 (pdftex.def)             Requested size: 369.88582pt x 243.91064pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14 <./Pictures/DiagramaFluxoDados.jpeg>]
-<Pictures/Diagrama.jpeg, id=336, 1284.8pt x 711.65875pt>
+<Pictures/Diagrama.jpeg, id=326, 1284.8pt x 711.65875pt>
 File: Pictures/Diagrama.jpeg Graphic file (type jpg)
 <use Pictures/Diagrama.jpeg>
-Package pdftex.def Info: Pictures/Diagrama.jpeg  used on input line 277.
+Package pdftex.def Info: Pictures/Diagrama.jpeg  used on input line 267.
 (pdftex.def)             Requested size: 455.24408pt x 252.1574pt.
 
-Overfull \hbox (28.45273pt too wide) in paragraph at lines 277--278
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 267--268
  [][] 
  []
 
-) (./04Projeto.tex [15 <./Pictures/DiagramaContexto.jpeg>] [16 <./Pictures/Diagrama.jpeg>]
+[14 <./Pictures/DiagramaFluxoDados.jpeg> <./Pictures/DiagramaContexto.jpeg>]) (./04Projeto.tex [15 <./Pictures/Diagrama.jpeg>] [16
+
+]
 Cap\'{\i }tulo 4.
-<Pictures/projeto.png, id=348, 289.08pt x 112.7412pt>
+<Pictures/projeto.png, id=341, 289.08pt x 112.7412pt>
 File: Pictures/projeto.png Graphic file (type png)
 <use Pictures/projeto.png>
 Package pdftex.def Info: Pictures/projeto.png  used on input line 8.
 (pdftex.def)             Requested size: 597.50787pt x 233.04076pt.
-) (./conclusao.tex [17
-
- <./Pictures/projeto.png>] [18
+) (./conclusao.tex [17 <./Pictures/projeto.png>] [18
 
 ]
 Cap\'{\i }tulo 5.
-<Pictures/conclusoes.png, id=357, 1204.5pt x 469.755pt>
+<Pictures/conclusoes.png, id=350, 1204.5pt x 469.755pt>
 File: Pictures/conclusoes.png Graphic file (type png)
 <use Pictures/conclusoes.png>
 Package pdftex.def Info: Pictures/conclusoes.png  used on input line 9.
 (pdftex.def)             Requested size: 597.50787pt x 233.03477pt.
-<Pictures/MeuSistema.jpg, id=358, 1060.56226pt x 430.0065pt>
+<Pictures/MeuSistema.jpg, id=351, 1060.56226pt x 430.0065pt>
 File: Pictures/MeuSistema.jpg Graphic file (type jpg)
 <use Pictures/MeuSistema.jpg>
 Package pdftex.def Info: Pictures/MeuSistema.jpg  used on input line 23.
@@ -1319,7 +1315,7 @@ Package pdftex.def Info: Pictures/MeuSistema.jpg  used on input line 23.
  [19 <./Pictures/conclusoes.png> <./Pictures/MeuSistema.jpg>] [20
 
 ]
-<Pictures/referencias.png, id=368, 903.375pt x 352.31625pt>
+<Pictures/referencias.png, id=361, 903.375pt x 352.31625pt>
 File: Pictures/referencias.png Graphic file (type png)
 <use Pictures/referencias.png>
 Package pdftex.def Info: Pictures/referencias.png  used on input line 1.
@@ -1338,18 +1334,18 @@ Package rerunfilecheck Info: File `"Javier Ernesto".brf' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29293 strings out of 481239
- 592590 string characters out of 5920377
+ 29288 strings out of 481239
+ 592536 string characters out of 5920377
  1064678 words of memory out of 5000000
- 43688 multiletter control sequences out of 15000+600000
+ 43686 multiletter control sequences out of 15000+600000
  601469 words of font info for 164 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,11n,97p,968b,1167s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Javier Ernesto.pdf" (25 pages, 6216915 bytes).
+Output written on "Javier Ernesto.pdf" (25 pages, 6216229 bytes).
 PDF statistics:
- 584 PDF objects out of 1000 (max. 8388607)
- 463 compressed objects within 5 object streams
- 134 named destinations out of 1000 (max. 500000)
- 37986 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 570 PDF objects out of 1000 (max. 8388607)
+ 451 compressed objects within 5 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 37970 words of extra memory for PDF output out of 42996 (max. 10000000)
 

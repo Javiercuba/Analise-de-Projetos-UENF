@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex Javier Ernesto"] 1650490395 "Javier Ernesto.aux" "Javier Ernesto.bbl" "Javier Ernesto" 1650490397
+["bibtex Javier Ernesto"] 1652387023 "Javier Ernesto.aux" "Javier Ernesto.bbl" "Javier Ernesto" 1652387025
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/alpha.bst" 1292289607 23907 a5f93555796fb564b924339521f10a7c ""
   "APS.bib" 1646562633 4474 7f3f4450d9da725e1a20fde18258e124 ""
-  "Javier Ernesto.aux" 1650490397 16093 5914ab9f5d309343533bae56e9fad07b "pdflatex"
+  "Javier Ernesto.aux" 1652387024 15434 2b3d70c82903392538812cf3a67285cb "pdflatex"
   (generated)
   "Javier Ernesto.bbl"
   "Javier Ernesto.blg"
-["makeindex Javier Ernesto.idx"] 1650490391 "Javier Ernesto.idx" "Javier Ernesto.ind" "Javier Ernesto" 1650490397
-  "Javier Ernesto.idx" 1650490396 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex Javier Ernesto.idx"] 1652387019 "Javier Ernesto.idx" "Javier Ernesto.ind" "Javier Ernesto" 1652387025
+  "Javier Ernesto.idx" 1652387023 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "Javier Ernesto.ilg"
   "Javier Ernesto.ind"
-["pdflatex"] 1650490395 "/home/javi/Dev/Analise de software/Javier Ernesto.tex" "Javier Ernesto.pdf" "Javier Ernesto" 1650490397
+["pdflatex"] 1652387023 "/home/javi/Dev/Analise de software/Javier Ernesto.tex" "Javier Ernesto.pdf" "Javier Ernesto" 1652387025
   "/etc/texmf/web2c/texmf.cnf" 1616100157 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/javi/Dev/Analise de software/Javier Ernesto.tex" 1650389361 4961 164d2e0fd01a45fe69c3745c0f58d4b6 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -247,14 +247,14 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1616100224 8256077 152ea3de46d573d63cb3143c864af9ab ""
   "01introduc.tex" 1648756097 5720 ffaf7cbecb4da936d9599fb99fa2a3f8 ""
   "02Planejamento.tex" 1648163087 7048 6a5894b5fb07d57a85ad3b93728924f4 ""
-  "03Analise.tex" 1650490122 11599 af6d36713af833aaabfeac69237b66b3 ""
+  "03Analise.tex" 1652386938 11464 7c33851553683fa993abaeccce399e63 ""
   "04Projeto.tex" 1646562588 628 66fc515ee2018d05b30e62e487050d71 ""
-  "Javier Ernesto.aux" 1650490397 16093 5914ab9f5d309343533bae56e9fad07b "pdflatex"
-  "Javier Ernesto.bbl" 1650490395 49 0eba253fc001332e731e8aba3f23127b "bibtex Javier Ernesto"
-  "Javier Ernesto.brf" 1650490397 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Javier Ernesto.ind" 1650490391 0 d41d8cd98f00b204e9800998ecf8427e "makeindex Javier Ernesto.idx"
+  "Javier Ernesto.aux" 1652387024 15434 2b3d70c82903392538812cf3a67285cb "pdflatex"
+  "Javier Ernesto.bbl" 1652387023 49 0eba253fc001332e731e8aba3f23127b "bibtex Javier Ernesto"
+  "Javier Ernesto.brf" 1652387024 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Javier Ernesto.ind" 1652387019 0 d41d8cd98f00b204e9800998ecf8427e "makeindex Javier Ernesto.idx"
   "Javier Ernesto.tex" 1650389361 4961 164d2e0fd01a45fe69c3745c0f58d4b6 ""
-  "Javier Ernesto.toc" 1650490397 4734 02cccc7fe66801d20d482048132ccd82 "pdflatex"
+  "Javier Ernesto.toc" 1652387024 4553 4b6f5167cc11db053c8edf7c561eeed2 "pdflatex"
   "Pictures/Diagrama.jpeg" 1650389289 132854 3a8832c01f84f15560f0b47d7625d41f ""
   "Pictures/DiagramaContexto.jpeg" 1650477370 31712 4ce0feb387f8fb641970d9ae32385127 ""
   "Pictures/DiagramaFluxoDados.jpeg" 1650486666 46770 a9e63c93bdce46f6ff724dfc0b250969 ""
@@ -271,9 +271,9 @@
   "conclusao.tex" 1646562616 679 8a596984371d47e10a35e28b5aa7f999 ""
   "structure.tex" 1650476451 24359 821c5d946979bb57737e2fc2af680631 ""
   (generated)
-  "Javier Ernesto.idx"
-  "Javier Ernesto.log"
-  "Javier Ernesto.pdf"
-  "Javier Ernesto.aux"
-  "Javier Ernesto.brf"
   "Javier Ernesto.toc"
+  "Javier Ernesto.brf"
+  "Javier Ernesto.pdf"
+  "Javier Ernesto.log"
+  "Javier Ernesto.idx"
+  "Javier Ernesto.aux"
